@@ -1,0 +1,41 @@
+{
+    "signup": {
+        "nome": "Rafael Machtura",
+        "cpf": "38909823418",
+        "email": "rafael@email.com",
+        "whatsapp": "11998765403",
+        "endereco": {
+            "cep": "15010040",
+            "numero": "2228",
+            "complemento": "Sl 4"
+        },
+        "entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Rafael Ribeiro",
+        "cpf": "389098234AA",
+        "email": "ribeiro@email.com",
+        "whatsapp": "11998765521",
+        "endereco": {
+            "cep": "15010040",
+            "numero": "2228",
+            "complemento": "Sl 4"
+        },
+        "entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Rafael Maia",
+        "cpf": "38909823418",
+        "email": "rafael#email.com",
+        "whatsapp": "11998765403",
+        "endereco": {
+            "cep": "15010040",
+            "numero": "2228",
+            "complemento": "Sl 4"
+        },
+        "entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
